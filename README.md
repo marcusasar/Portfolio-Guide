@@ -9,10 +9,10 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 # Data Modeling
 
-| Project Link |Area | | Project Description |
+| Project Link | Area |  Project Description |
 | --- | --- | --- |
-| git status | List all new or modified files |
-| git diff | Show file differences that haven't been staged |
+| git status | git status | List all new or modified files |
+| git diff | git status | Show file differences that haven't been staged |
 
 
 
