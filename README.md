@@ -5,7 +5,6 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 - [Data Modelling](#data-modeling)
 - [SQL](#sql)
-- [EXCEL]
 
 # Data Modeling
 
@@ -19,7 +18,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area |  Project Description |
 | --- | --- | --- |
-| [Product Sales Case Study](https://github.com/marcusasar/SQL_Product_Case_Study) | Data analysis, Data transformation | Show file differences that haven't been staged |
+| [Product Sales Case Study](https://github.com/marcusasar/SQL_Product_Case_Study/blob/main/Product_Sales_Case_Study.md) | Data analysis, Data transformation | Show file differences that haven't been staged |
 
 
 
