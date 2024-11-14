@@ -3,7 +3,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 ### 📚 Table of Contents
 
-- [Data Modelling](#data-modeling)
+- [Data Modeling](#data-modeling)
 - [SQL](#sql)
 
 # Data Modeling
