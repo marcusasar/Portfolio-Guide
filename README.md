@@ -10,7 +10,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area |  Project Description |
 | --- | --- | --- |
-| 🏬 [Rent Apartments](https://github.com/marcusasar/Sql_data_models) | git status | List all new or modified files |
+| 🏬 [Rent Apartments](https://github.com/marcusasar/Sql_data_models) | Databaase Design | This project focus on designing a rent system. |
 | 🧑‍🎓 [Student Database Management System](https://github.com/marcusasar/Sql_data_models) | git status | List all new or modified files |
 
 
@@ -18,7 +18,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area |  Project Description |
 | --- | --- | --- |
-| 📦 [Product Sales Analysis](https://github.com/marcusasar/SQL_Product_Case_Study/blob/main/Product_Sales_Case_Study.md) | Data analysis, Data transformation | I analyzed product sales dataset to answer business questions, such as sales by cities, revenues generated and other key questions |
+| 📦 [Product Sales Analysis](https://github.com/marcusasar/SQL_Product_Case_Study/blob/main/Product_Sales_Case_Study.md) | Data analysis, Data transformation | I analyzed product sales dataset to answer business questions, such as how sales figures look like, revenues generated and other key questions |
 
 
 
