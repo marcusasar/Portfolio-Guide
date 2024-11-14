@@ -10,7 +10,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area |  Project Description |
 | --- | --- | --- |
-| 🏬 [Rent System](https://github.com/marcusasar/Sql_data_models) | Databaase Design | This project focus on designing a rent system. |
+| 🏬 [Rent System](https://github.com/marcusasar/Sql_data_models) | Database Design | I came up with this project idea which focus on designing a rent system for an apartment. |
 | 🧑‍🎓 [Student Database Management System](https://github.com/marcusasar/Sql_data_models) | git status | List all new or modified files |
 
 
