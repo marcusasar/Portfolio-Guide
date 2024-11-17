@@ -12,7 +12,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area |  Project Description |
 | --- | --- | --- |
 | 🏬 [Rent System](https://github.com/marcusasar/Sql_data_models) | Entity Relational Diagrams | I came up with this project idea which focus on designing a rent system for an apartment. |
-| 🧑‍🎓 [Student Database Management System](https://github.com/marcusasar/Sql_data_models) | Entity Relational Diagrams | List all new or modified files |
+| 🧑‍🎓 [Student Database Management System](https://github.com/marcusasar/Sql_data_models) | Entity Relational Diagrams | Created a database to manage students records. |
 
 # SQL
 
