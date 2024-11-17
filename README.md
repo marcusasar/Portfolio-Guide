@@ -24,7 +24,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 
 | Project Link | Area |  Project Description |
 | --- | --- | --- |
-| ☕️ [Coffee Survey Analytics](https://github.com/marcusasar/SQL_Product_Sales/blob/main/README.md) | Survey | Analyzed survey data from starbucks to find how customers of different age group really visit to take coffee. |
+| ☕️ [Coffee Survey Analytics](https://github.com/marcusasar/Starbucks_Survey_Excel) | Survey | Analyzed survey data from starbucks to find how customers of different age group really visit to take coffee. |
 
 
 
