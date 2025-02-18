@@ -25,7 +25,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area |  Project Description |
 | --- | --- | --- |
 | ☕️ [Coffee Survey Analytics](https://github.com/marcusasar/Starbucks_Survey_Excel) | Survey | Analyzed survey data from starbucks to find how customers of different age group really visit to take coffee. |
-| ☕️ [chi-square-analysis](https://github.com/marcusasar/Starbucks_Survey_Excel) | Survey | Analyzed survey data from starbucks to find how customers of different age group really visit to take coffee. |
+| ☕️ [chi-square-analysis](https://github.com/marcusasar/Chi-Square-Test-Poject) | Survey | Analyzed survey data from starbucks to find how customers of different age group really visit to take coffee. |
 
 
 
