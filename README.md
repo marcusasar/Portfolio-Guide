@@ -19,6 +19,7 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | Project Link | Area |  Project Description |
 | --- | --- | --- |
 | 📦 [Product Sales Analysis](https://github.com/marcusasar/SQL_Product_Sales/blob/main/README.md) | Data analysis, Data transformation | I analyzed product sales dataset to answer business questions, such as how sales figures look like, revenues generated and other key questions. |
+| 🏦 [Bank-Transaction-SQL-Analysis](https://github.com/marcusasar/Bank-Transaction-SQL-Analysis) | Data analysis, Data transformation | I analyzed product sales dataset to answer business questions, such as how sales figures look like, revenues generated and other key questions. |
 
 # Excel
 
